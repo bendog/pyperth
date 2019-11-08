@@ -1,4 +1,5 @@
-# pyperth-flask
+# pyperth
+
 Flask based version of the PDPD meetup website
 
 
