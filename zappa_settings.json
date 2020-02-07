@@ -1,0 +1,11 @@
+{
+    "pypals": {
+        "app_function": "app.app",
+        "aws_region": "ap-southeast-1",
+        "profile_name": "default",
+        "project_name": "pyperth",
+        "runtime": "python3.7",
+        "s3_bucket": "bendog-zappa-deploy-ap-southeast-1",
+        "keep_warm": false
+    }
+}
