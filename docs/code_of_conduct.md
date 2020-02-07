@@ -8,28 +8,47 @@ This isn’t an exhaustive list of things that you can’t do. Rather, take it i
 
 This code of conduct applies to all spaces managed or utilised by PyPerth. This includes Slack, the mailing lists, the issue tracker, events, and any other forums created by the PyPerth community for communication. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
-If you believe someone is violating the code of conduct, we ask that you report it via [the PyPerth anonymous feedback form].
-
 - __Be friendly and patient.__
 - __Be welcoming.__ We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
 - __Be considerate.__ Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we're a world-wide community, so you might not be communicating in someone else's primary language.
-- __Be respectful.__ Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members of the community should be respectful when dealing with other members as well as with people outside the community.
+- __Be respectful.__ Not all of us will agree all the time, but disagreement is no excuse for poor behaviour and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members of the community should be respectful when dealing with other members as well as with people outside the community.
 - __Be careful in the words that you choose.__ We are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behaviour aren't acceptable. This includes, but is not limited to:
   - Violent threats or language directed against another person.
   - Discriminatory or exclusionary jokes and language.
   - Posting sexually explicit, violent, racist or otherwise offensive material.
   - Posting (or threatening to post) other people's personally identifying information ("doxing").
   - Personal insults, especially those using racist or sexist terms.
+  - Deliberate intimidation.
+  - Negative behaviour around a person's role or experience.
+  - Sustained disruption of talks or other events.
   - Unwelcome sexual attention.
+  - Inappropriate physical contact.
+  - Stalking or following.
+  - Unwanted photography or recording.
   - Advocating for, or encouraging, any of the above behaviour.
   - Repeated harassment of others. In general, if someone asks you to stop, then stop.
 - __When we disagree, try to understand why.__ Disagreements, both social and technical, happen all the time and our community is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of out community comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
+
+## Violations and reporting
+
+If you believe someone is violating the code of conduct, we ask that you report it via [the PyPerth anonymous feedback form], or by contacting one of the [organisers] on Slack.
+
+All complaints made to organisers will remain confidential and be taken seriously. The complaint will be treated appropriately with discretion. Should event organisers or moderators consider it appropriate, measures they may take include:
+
+- the individuals may be told to apologise
+- the individuals may be told to stop/modify their behaviour appropriately
+- the individuals may be warned that enforcement action may be taken if the behaviour continues
+- the individuals may be asked to immediately leave the venue/medium and/or will be prohibited from attending/interacting in the future.
+- the incident may be reported to the appropriate authorities
 
 ---
 
 References:
 
-- The Django Project <https://www.djangoproject.com/conduct/>
-- The Speak Up! project <http://web.archive.org/web/20141109123859/http://speakup.io/coc.html>
+- [The Django Project](http://web.archive.org/web/20191216142334/https://www.djangoproject.com/conduct/)
+- [The Speak Up! project](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html)
+- [PyCon Australia](http://web.archive.org/web/20190426040205/https://2019.pycon-au.org/conduct/)
+- [Fenders Perth](http://web.archive.org/web/20200207064919/http://www.fenders.co/code-of-conduct/)
 
+[organisers]: http://notyet.com
 [the PyPerth anonymous feedback form]: http://yettobemade.com
